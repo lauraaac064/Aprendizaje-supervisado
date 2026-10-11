@@ -1,4 +1,4 @@
-# Aprendizaje-supervisado
+# Aprendizaje supervisado
 
 **Creado por:** Laura Cortés Hoyos  
 
